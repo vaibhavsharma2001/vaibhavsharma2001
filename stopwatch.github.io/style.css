@@ -34,7 +34,7 @@ video {
     font-size: 50px;
     font-weight: 500;
 }
-.btn {
+.btun {
     width: 120px;
     font-size: 16px;
     font-weight: 600;
@@ -51,7 +51,7 @@ video {
     transition: all 0.4s ease-in-out;
   }
   
-  .btn:hover {
+  .btun:hover {
     background-position: 100% 0;
     -moz-transition: all .4s ease-in-out;
     -o-transition: all .4s ease-in-out;
@@ -59,11 +59,11 @@ video {
     transition: all .4s ease-in-out;
   }
   
-  .btn:focus {
+  .btun:focus {
     outline: none;
   }
   
-  .btn {
+  .btun {
     background-image: linear-gradient(
         to right,
         #6253e1,
