@@ -1,8 +1,6 @@
 https://github.com/vaibhavsharma2001/vaibhavsharma2001.git
 - stopwatch.github.io
 - 👋 Hi, I’m @vaibhavsharma2001
--this is stopwatch.github.io
-<!---
-vaibhavsharma2001/vaibhavsharma2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-this is stopwatch project
+
+
