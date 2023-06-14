@@ -1,7 +1,7 @@
 const time = document.querySelector('.watch .time');
-const startBtn = document.getElementById('start');
-const stopBtn = document.getElementById('stop');
-const resetBtn = document.getElementById('reset');
+const startBtun = document.getElementById('start');
+const stopBtun = document.getElementById('stop');
+const resetBtun = document.getElementById('reset');
 
 let seconds = 0;
 let interval = null;
