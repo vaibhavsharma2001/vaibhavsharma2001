@@ -1,6 +1,6 @@
-https://github.com/vaibhavsharma2001/stopwatch.github.io.git
-- stopwatch.github.io
+https---github.com-vaibhavsharma2001-Superhuntter.github.io
+- This a marvel api project where you can find your hero and add him in your favourite and delete if want
 - 👋 Hi, I’m @vaibhavsharma2001
--this is stopwatch project
+-this is Marvel api project
 
 
